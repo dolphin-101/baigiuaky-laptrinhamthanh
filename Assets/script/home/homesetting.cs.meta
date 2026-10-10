@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 14e36a0daf4d07b40a860cbcd065bb14
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - panelSetting: {instanceID: 0}
+  - overlayDarkBackground: {instanceID: 0}
+  - btnOpenSetting: {instanceID: 0}
+  - btnCloseSetting: {instanceID: 0}
+  - btnToggleMusic: {instanceID: 0}
+  - btnToggleSFX: {instanceID: 0}
+  - imgMusicOn: {fileID: 21300000, guid: 1843ed19c171c6a4b9ab22702c57685b, type: 3}
+  - imgMusicOff: {fileID: 21300000, guid: f278bbbfa4561ea43891ae3cfbde8255, type: 3}
+  - imgSFXOn: {fileID: 21300000, guid: 17730c6cb272941428f1513224bdb705, type: 3}
+  - imgSFXOff: {fileID: 21300000, guid: 57a344eca2da26a478652cd46011997a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
