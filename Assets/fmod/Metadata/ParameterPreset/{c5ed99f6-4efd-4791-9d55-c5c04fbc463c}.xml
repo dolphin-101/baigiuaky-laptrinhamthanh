@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{c5ed99f6-4efd-4791-9d55-c5c04fbc463c}">
+		<property name="name">
+			<value>Combolevel1</value>
+		</property>
+		<relationship name="folder">
+			<destination>{fc9666c3-8f42-4628-b091-917699003b4c}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{70f8f7ce-ad84-4f5f-8e54-e71e476e6730}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{70f8f7ce-ad84-4f5f-8e54-e71e476e6730}">
+		<property name="minimum">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>10</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{27129b6e-05b8-4403-9c91-f83b5bc9d182}">
+		<property name="assetPath">
+			<value>Match.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.488</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{85041883-dec0-4b7d-bbbc-e1d0ac006973}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{e747c337-b6fb-449e-b3b0-4736f97415f0}">
+		<property name="assetPath">
+			<value>Fail click.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.1087528344671203</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{85041883-dec0-4b7d-bbbc-e1d0ac006973}</destination>
+		</relationship>
+	</object>
+</objects>
